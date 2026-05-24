@@ -5,7 +5,6 @@
   Содержание
 
 - [Задача 1071. Greatest Common Divisor of Strings](1071-greatest-common-divisor-of-strings)
-- (добавьте другие задачи по мере необходимости)
 
 ---
 
